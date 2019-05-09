@@ -1,4 +1,4 @@
-# Final-Project
+# Data_Bootcamp_Final_Project
 
 This project was completed by Liza Sakhiae in partial fulfillment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project. In particlar, I have:
 
